@@ -32,23 +32,23 @@
 
 ## Particularités du Gantt
 
-  Le premier point majeur à abordé est relatif au Gantt en lui-même, fil conducteur de notre développement. 
-  
-<img src="https://i.imgur.com/xQdAwut.png" alt="Screenshot Gantt1">
+<img src="https://i.imgur.com/qIn5hH0.png" alt="Screenshot Gantt1">
+
+***Le premier point majeur à abordé est relatif au Gantt en lui-même, fil conducteur de notre développement.*** 
 
 En effet, nous avons décider d'en réaliser un, notre objectif étant qu'au niveau de la notation, celle-ci soit dans l'idéal égalitaire pour l'ensemble du groupe si celle-ci venait à être livrée individuellement. Pour cela, rien de mieux que de répartir les tâches à effectuer par rapport aux disponibilités et de surcroît, à part égale. 
-Vous trouverez joint à chaque tâche/étape une description précisant le responsable et/ou la personne affectée à la réalisation doublée d’un explicatif du choix de développement.
+
+Vous trouverez joint à **chaque tâche/étape** une description précisant le responsable et/ou la personne affectée à la réalisation doublée d’un explicatif du choix de développement.
 
 Cependant, comme vous pouvez le voir, le problème "majeur" si l'on puis dire qui a été rencontré réside dans les datations : celles-ci sont purement fictives, et seul le jour en lui-même fait office de référence en terme horaire. Aussi en conséquence nous avons adapté la chose par mesures de compréhension.
-
 
 Notre réponse est celle que vous trouverez en contrebas, plutôt que de nous baser sur des jours, nous nous basons en réalité sur des heures de travail mises bout à bout, chacun s’occupant au même moment pour avancer au plus vite et nous laisser un délai de vérification pour le dernier jour. 
 
 Ainsi, un jour est en vérité une heure, mais le meilleur moyen de comprendre la progression de la réalisation est de suivre tout bonnement le Gantt schématisé. 
 
-<img src="https://i.imgur.com/f4BcHBa.png" alt="Screenshot Gantt2">
+***Nous avons répartis les tâches en cinq pôles, par langage mais aussi par fonction : Javascript (Violet), CSS (Bleu), HTML (Orange), Database (Vert), Coordination (Rouge)*** 
 
-Nous avons répartis les tâches en cinq pôles, par langage mais aussi par fonction : Javascript (Violet), CSS (Bleu), HTML (Orange), Database (Vert), Coordination (Rouge)
+<img src="https://i.imgur.com/f4BcHBa.png" alt="Screenshot Gantt2">
 
 ## Répartition des tâches
 
