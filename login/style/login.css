@@ -1,7 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 form{
     padding-top: 20px;
-    margin-top: 303px;
-    margin-left: 702px;
+    margin: auto;
     width: 516px;
     height: 325px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -41,8 +48,8 @@ button{
 }
 
 .php{
+    margin-top: 10%;
     text-align: center;
-    margin-top: 20px;
     color: red;
     text-shadow: black 0.5px 1px;
 }
