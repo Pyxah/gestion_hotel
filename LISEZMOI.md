@@ -21,10 +21,10 @@
     <li>
       <a href="#répartition-des-tâches">Répartition des tâches</a>
       <ul>
-        <li><a href="#Laure">Laure DELACHAPELLE</a></li>
-        <li><a href="#Jeremy">Jeremy PROVOST</a></li>
-        <li><a href="#Pierre">Pierre CLEMENT</a></li>
-        <li><a href="#Thomas">Thomas FOSSARD</a></li>
+        <li><a href="#Laure-delachapelle">Laure DELACHAPELLE</a></li>
+        <li><a href="#Jeremy-provost">Jeremy PROVOST</a></li>
+        <li><a href="#Pierre-clement">Pierre CLEMENT</a></li>
+        <li><a href="#Thomas-fossard">Thomas FOSSARD</a></li>
       </ul>
     </li>
 </details>
