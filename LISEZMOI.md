@@ -7,7 +7,7 @@
 
   <h3 align="center">Projet TPE - Gestion d'hôtel L.T.P.J</h3>
 
-  <p align="center">Bonjour et bienvenue ! Ce court "Lisez-moi" servira d'éclaircissements et d'explications annexes quant au projet.</p>  
+  <p align="center">Bonjour et bienvenue ! Ce court "Lisez-moi" servira d'éclaircissements et d'explications annexes quant au projet.</p>
   <p align="center">Nous conseillons par ailleurs de passer au mode "nuit" de Github pour la lecture de ce fichier.</p>
 </p>
 
@@ -34,7 +34,7 @@
 
 <img src="https://i.imgur.com/qIn5hH0.png" alt="Screenshot Gantt1">
 
-***Le premier point majeur à abordé est relatif au Gantt en lui-même, fil conducteur de notre développement.*** 
+<p style="color:green;">Le premier point majeur à abordé est relatif au Gantt en lui-même, fil conducteur de notre développement.</p>
 
 En effet, nous avons décider d'en réaliser un, notre objectif étant qu'au niveau de la notation, celle-ci soit dans l'idéal égalitaire pour l'ensemble du groupe si celle-ci venait à être livrée individuellement. Pour cela, rien de mieux que de répartir les tâches à effectuer par rapport aux disponibilités et de surcroît, à part égale. 
 
