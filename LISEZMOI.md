@@ -7,8 +7,8 @@
 
   <h3 align="center">Projet TPE - Gestion d'hôtel L.T.P.J</h3>
 
-  <p align="center">
-    Bonjour et bienvenue ! Ce court "Lisez-moi" servira d'éclaircissements et d'explications annexes quant au projet.</p>
+  <p align="center">Bonjour et bienvenue ! Ce court "Lisez-moi" servira d'éclaircissements et d'explications annexes quant au projet.</p>  
+  <p align="center">Nous conseillons par ailleurs de passer au mode "nuit" de Github pour la lecture de ce fichier.</p>
 </p>
 
 
