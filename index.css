@@ -1,0 +1,73 @@
+html, body{
+    margin: 0px;
+    font-family: Segoe UI, Light;
+}
+
+.header {
+    background: rgb(10, 75, 161);
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+#boutton-margin {
+    margin-left: 0%;
+}
+
+#head-title {
+    margin-left: 12%;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#déconnexion{
+    padding-left: 600px;
+}
+
+h2{
+    color: rgb(10, 75, 161);
+    margin-left: 14%;
+    margin-bottom: -3%;
+    margin-top: 6%;
+}
+
+.main{
+    padding: 8%;
+}
+
+.case_chambre{
+    border: hidden;
+    border-radius: 13px;
+    /* padding: 15px; */
+    margin: 10px;
+    display: inline-block;
+    text-align: left;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    /* padding-right: 78px; */
+    width: 220px;
+    background-color: white;
+    box-shadow: 0px 1px 6px darkgrey;
+}
+
+.libre{
+    color: green;
+}
+
+.occupe{
+    color : red;
+}
+
+.nettoyage{
+    color : orange;
+}
