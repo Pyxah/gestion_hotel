@@ -62,7 +62,7 @@ Et la troisième, après avoir normalement soulevé les questions lors du cours 
 ### Laure DELACHAPELLE
 
 > Force de proposition, Laure a mis en place le Github avant de se pencher sur la partie PHP/SQL pour parfaire ses connaissances dans le domaine, celle-ci a été presque intégralement dédiée à la partie Base de données, que cela soit dans son élaboration ou sa réalisation, ainsi qu'indirectement, son application finale. Celle-ci est restée en vocal avec le reste de l'équipe tout du long afin de pouvoir participer à l'élaboration de l'HTML lorsque des problèmes survenaient.
-Dans un deuxième temps, elle a travaillée avec le reste du groupe sur la partie Javascript.
+Dans un deuxième temps, elle a travaillé avec le reste du groupe sur la partie Javascript.
 
 ### Jeremy PROVOST
 
