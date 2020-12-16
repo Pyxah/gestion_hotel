@@ -19,6 +19,9 @@
       <a href="#particularités-du-gantt">Préambule : Particularités du Gantt</a>
     </li>
     <li>
+      <a href="#Technologies">Technologies</a>
+    </li>
+    <li>
       <a href="#répartition-des-tâches">Répartition des tâches</a>
       <ul>
         <li><a href="#Laure-delachapelle">Laure DELACHAPELLE</a></li>
@@ -26,6 +29,9 @@
         <li><a href="#Pierre-clement">Pierre CLEMENT</a></li>
         <li><a href="#Thomas-fossard">Thomas FOSSARD</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#Sources">Sources</a>
     </li>
 </details>
 
@@ -49,6 +55,21 @@ Ainsi, un jour est en vérité une heure, mais le meilleur moyen de comprendre l
 ***Nous avons répartis les tâches en cinq pôles, par langage mais aussi par fonction : Javascript (Violet), CSS (Bleu), HTML (Orange), Database (Vert), Coordination (Rouge)*** 
 
 <img src="https://i.imgur.com/f4BcHBa.png" alt="Screenshot Gantt2">
+
+## Technologies
+
+***Le projet a été créé en utilisant :***
+
+***Les logiciels :***
+
+> * Visual Studio Code v1.52
+* XAMPP v3.2.4 en parallèle de Laragon v4.0.16
+* SQL Apache 
+* PHPMyAdmin
+
+***Les langues :***
+
+> Javascript, HTML, CSS, PHP
 
 ## Répartition des tâches
 
@@ -78,3 +99,7 @@ Dans un deuxième temps, il a travaillé avec le reste du groupe sur la partie J
 
 > Ayant des connaissances assez généralisées par rapport aux besoins, Thomas s'est focalisé sur l'intégralité de la page "Chambres", faisant ainsi l'HTML et le CSS. 
 Dans un deuxième temps, il a travaillé avec le reste du groupe sur la partie Javascript.
+
+## Sources
+Ce projet est une reproduction du modèle fourni par Jeremy DUFROY, formateur au centre PROMEO.
+Source du modèle : (https://xd.adobe.com/view/f8238b57-d09c-4d66-9e01-64c081da30ee-ad70/)
