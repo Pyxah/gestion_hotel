@@ -62,7 +62,6 @@ if(!isset($_SESSION['id_user'])) {
             else {
                 echo '<p class="nettoyage">A nettoyer</p>';
             }
-            
             ?>
         </div>
         <?php
