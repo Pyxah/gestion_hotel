@@ -13,7 +13,7 @@
     <ul id="boutton-margin">
         <li><a href="#chambres">Chambres</a></li>
         <li><a href="#personnel">Personnel</a></li>
-        <li id="déconnexion"><a href="#déconnexion">Déconnexion</a></li>
+        <li id="déconnexion"><a href="logout.php">Déconnexion</a></li>
     </ul>
 </div>
 
@@ -29,17 +29,16 @@ catch(Exception $e)
 }
 ?>
 
-
-
 <!------------------------------- Redirige sur le login si non connecté  ------------------------->
 <?php
+
 session_start();
-if(!isset($_SESSION["id_user"])) {
-header('location:login.php?error=none');
+if(!isset($_SESSION['id_user'])) {
+    header('location:login.php?error=none');
 }
+
 ?>
 <!------------------------------------------------------------------------------------------------>
-
 
 <h2>Gestions des chambres</h2>
 
