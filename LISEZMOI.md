@@ -63,9 +63,9 @@ Ainsi, un jour est en vérité une heure, mais le meilleur moyen de comprendre l
 ***Les logiciels :***
 
 > * Visual Studio Code v1.52
-* XAMPP v3.2.4 en parallèle de Laragon v4.0.16
-* SQL Apache 
-* PHPMyAdmin
+> * XAMPP v3.2.4 en parallèle de Laragon v4.0.16
+> * SQL Apache 
+> * PHPMyAdmin
 
 ***Les langues :***
 
