@@ -3,7 +3,7 @@ html, body{
     font-family: Segoe UI, Light;
 }
 
-.header {
+.header{
     background: rgb(10, 75, 161);
     padding: 0px;
     display: flex;
