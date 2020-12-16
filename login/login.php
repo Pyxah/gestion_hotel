@@ -48,7 +48,7 @@
                         //Connecte car similaire à la bdd
                         if(!empty($user)){ 
                             session_start();
-                            $_SESSION['id_user'] = $user['id'];
+                            $_SESSION['id_user'] = $user['id_user'];
                             $_SESSION['email'] = $user['email'];
                             header('location:index.php?error=none');
                         } 
