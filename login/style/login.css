@@ -11,7 +11,7 @@ form{
     margin: auto;
     width: 516px;
     height: 325px;
-    background: #FFFFFF 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat pad;ding-box;
     box-shadow: 0px 3px 6px #0000003D;
 }
 
@@ -51,5 +51,5 @@ button{
     margin-top: 10%;
     text-align: center;
     color: red;
-    text-shadow: black 0.5px 1px
+    text-shadow: black 0.5px 1px;
 }
