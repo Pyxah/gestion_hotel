@@ -4,7 +4,7 @@
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
    <link rel="shortcut icon" type="image/ico" href="img/favicon.gif" />
    <link rel="stylesheet" type="text/css" href="./style/index.css" />
-   <title> titre </title>
+   <title>Hotel & Resort</title>
  </head>
  <body>
 
@@ -62,6 +62,7 @@ if(!isset($_SESSION['id_user'])) {
             else {
                 echo '<p class="nettoyage">A nettoyer</p>';
             }
+            
             ?>
         </div>
         <?php
