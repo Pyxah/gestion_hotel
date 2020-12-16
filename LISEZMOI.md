@@ -7,8 +7,8 @@
 
   <h3 align="center">Projet TPE - Gestion d'hôtel L.T.P.J</h3>
 
-  <p align="center" class="italic">Bonjour et bienvenue ! Ce court "Lisez-moi" servira d'éclaircissements et d'explications annexes quant au projet.</p>
-  <p align="center" class="italic">Nous conseillons par ailleurs de passer au mode "nuit" de Github pour la lecture de ce fichier.</p>
+  <p align="center">Bonjour et bienvenue ! Ce court "Lisez-moi" servira d'éclaircissements et d'explications annexes quant au projet.</p>
+  <p align="center">Nous conseillons par ailleurs de passer au mode "nuit" de Github pour la lecture de ce fichier.</p>
   </p>
 
 
@@ -83,10 +83,10 @@ Et la troisième, après avoir normalement soulevé les questions lors du cours 
 ### Laure DELACHAPELLE
 
 <img src="https://i.imgur.com/9dnORl6.png" alt="Screenshot Laure1">
-_Répartition des tâches théoriques de Laure_
+<p class="italic">Répartition des tâches théoriques de Laure</p>
 
 <img src="" alt="Screenshot Laure2">
-_Répartition des tâches réelles de Laure à la fin du projet_
+<p class="italic">Répartition des tâches réelles de Laure à la fin du projet</p>
 
 > Force de proposition, Laure a mis en place le Github avant de se pencher sur la partie PHP/SQL pour parfaire ses connaissances dans le domaine, celle-ci a été presque intégralement dédiée à la partie Base de données, que cela soit dans son élaboration ou sa réalisation, ainsi qu'indirectement, son application finale. Celle-ci est restée en vocal avec le reste de l'équipe tout du long afin de pouvoir participer à l'élaboration de l'HTML lorsque des problèmes survenaient.
 Dans un deuxième temps, elle a travaillé avec le reste du groupe sur la partie Javascript.
@@ -94,10 +94,10 @@ Dans un deuxième temps, elle a travaillé avec le reste du groupe sur la partie
 ### Jeremy PROVOST
 
 <img src="https://i.imgur.com/0RaIQi5.png" alt="Screenshot Jeremy1">
-_Répartition des tâches théoriques de Jeremy_
+<p class="italic">Répartition des tâches théoriques de Jeremy</p>
 
 <img src="" alt="Screenshot Jeremy2">
-_Répartition des tâches réelles de Jeremy à la fin du projet_
+<p class="italic">Répartition des tâches réelles de Jeremy à la fin du projet</p>
 
 > Ayant pris en charge la réalisation du Gantt durant la première matinée et à la répartition des tâches, j'ai fini par me pencher sur la rédaction de ce "Lisez moi" dans son intégralité avant de me pencher sur ce qui me plait le plus, l'HTML/CSS, ainsi j'ai porté assistance et/ou accompli certaines pages de CSS tout en aidant via une communication Discord sur la partie HTML.
 Dans un deuxième temps, j'ai travaillé avec le reste du groupe sur la partie Javascript.
@@ -105,10 +105,10 @@ Dans un deuxième temps, j'ai travaillé avec le reste du groupe sur la partie J
 ### Pierre CLEMENT
 
 <img src="https://i.imgur.com/bP3zkmK.png" alt="Screenshot Pierre1">
-_Répartition des tâches théoriques de Pierre_
+<p class="italic">Répartition des tâches théoriques de Pierre</p>
 
 <img src="" alt="Screenshot Thomas2">
-_Répartition des tâches réelles de Pierre à la fin du projet_
+<p class="italic">Répartition des tâches réelles de Pierre à la fin du projet</p>
 
 > Ayant des connaissances assez généralisées par rapport aux besoins, Pierre s'est focalisé sur l'HTML pendant que nous discutions répartition des tâches. Il a ensuite travaillé de paire avec moi sur la partie CSS.
 Dans un deuxième temps, il a travaillé avec le reste du groupe sur la partie Javascript.
@@ -116,10 +116,10 @@ Dans un deuxième temps, il a travaillé avec le reste du groupe sur la partie J
 ### Thomas FOSSARD
 
 <img src="https://i.imgur.com/PDfTarq.png" alt="Screenshot Thomas1">
-_Répartition des tâches théoriques de Thomas_
+<p class="italic">Répartition des tâches théoriques de Thomas</p>
 
 <img src="" alt="Screenshot Thomas2">
-_Répartition des tâches réelles de Thomas à la fin du projet_
+<p class="italic">Répartition des tâches réelles de Thomas à la fin du projet</p>
 
 > Ayant des connaissances assez généralisées par rapport aux besoins, Thomas s'est focalisé sur l'intégralité de la page "Chambres", faisant ainsi l'HTML et le CSS. 
 Dans un deuxième temps, il a travaillé avec le reste du groupe sur la partie Javascript.
