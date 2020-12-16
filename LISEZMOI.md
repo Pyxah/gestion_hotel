@@ -76,9 +76,10 @@ Ainsi, la première journée a été surtout consacrée à l'élaboration de la 
 La seconde journée, a été entièrement dédiée au CSS.
 Et la troisième, après avoir normalement soulevé les questions lors du cours en présentiel de Mercredi, au Javascript par équipe de deux.
 
+
 <p style="text-align:center;">La lecture des informations en contrebas dépend de ceci :</p>
-  
-<img src="https://i.imgur.com/CPgPaT8.png" alt="Explicatif">
+
+<img src="https://i.imgur.com/CPgPaT8.png" align="center" alt="Explicatif">
 
 
 A noté néanmoins que la mention de "sous-employé" est excessive, dans la mesure où nous avons divisé la tâche pour garantir l'efficacité de notre méthode : plutôt que d'attendre que chacun publie la page HTML entièrement avec les requêtes de son côté, chacun s'occupait d'une langue et envoyait son fichier via Discord, le reste de l'équipe complétant par rapport à ce qu'il avait déjà sous la main (exemple : une requête SQL pour le login).
