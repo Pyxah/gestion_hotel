@@ -1,10 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://i.imgur.com/3ft7tsZ.png" alt="Logo" width="120" height="120">
-  </a>
-
+  
   <h3 align="center">Projet TPE - Gestion d'hôtel L.T.P.J</h3>
 
   <p align="center">Bonjour et bienvenue ! Ce court "Lisez-moi" servira d'éclaircissements et d'explications annexes quant au projet.</p>
@@ -73,10 +71,17 @@ Ainsi, un jour est en vérité une heure, mais le meilleur moyen de comprendre l
 
 ## Répartition des tâches
 
-_Les différentes ressources ont été affectées par compétences mais aussi par désir de travailler sur un domaine, afin de garantir une certaine efficacité au vu du projet qui s’étend en trois jours maximum.
+Les différentes ressources ont été affectées par compétences mais aussi par désir de travailler sur un domaine, afin de garantir une certaine efficacité au vu du projet qui s’étend en trois jours maximum.
 Ainsi, la première journée a été surtout consacrée à l'élaboration de la planification et à l'instauration du HTML. 
 La seconde journée, a été entièrement dédiée au CSS.
-Et la troisième, après avoir normalement soulevé les questions lors du cours en présentiel de Mercredi, au Javascript par équipe de deux._
+Et la troisième, après avoir normalement soulevé les questions lors du cours en présentiel de Mercredi, au Javascript par équipe de deux.
+
+La lecture des informations en contrebas dépend de ceci :
+  
+   <img src="https://i.imgur.com/CPgPaT8.png" alt="Explicatif" class="center">
+
+
+A noté néanmoins que la mention de "sous-employé" est excessive, dans la mesure où nous avons divisé la tâche pour garantir l'efficacité de notre méthode : plutôt que d'attendre que chacun publie la page HTML entièrement avec les requêtes de son côté, chacun s'occupait d'une langue et envoyait son fichier via Discord, le reste de l'équipe complétant par rapport à ce qu'il avait déjà sous la main (exemple : une requête SQL pour le login).
 
 **NOTE : CETTE PARTIE EST VOUÉE A EVOLUER JUSQU'A JEUDI, PUISQUE REDIGEE AU 14/12 ELLE N'A PAS PRIS EN COMPTE LES POTENTIELS IMPREVUS.**
 
