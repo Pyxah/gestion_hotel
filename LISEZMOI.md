@@ -71,7 +71,7 @@ Ainsi, un jour est en vérité une heure, mais le meilleur moyen de comprendre l
 
 ## Répartition des tâches
 
-Les différentes ressources ont été affectées par compétences mais aussi par désir de travailler sur un domaine, afin de garantir une certaine efficacité au vu du projet qui s’étend en trois jours maximum.
+Les différentes ressources (les membres du projet) ont été affectées par compétences mais aussi par désir de travailler sur un domaine, afin de garantir une certaine efficacité au vu du projet qui s’étend en trois jours maximum.
 Ainsi, la première journée a été surtout consacrée à l'élaboration de la planification et à l'instauration du HTML. 
 La seconde journée, a été entièrement dédiée au CSS.
 Et la troisième, après avoir normalement soulevé les questions lors du cours en présentiel de Mercredi, au Javascript par équipe de deux.
