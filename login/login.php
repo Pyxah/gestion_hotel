@@ -22,7 +22,6 @@
                 <input for="password" id="password" type="password" name="password">
             </div>
                 
-
             <button class="button" id="button" type="submit" name="button">Connecter</button>
 
             <div class="php">
