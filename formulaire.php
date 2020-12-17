@@ -1,12 +1,22 @@
 <!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <meta charset="utf-8">
-        <title>Formulaire</title>
-        <link rel="stylesheet" href="./style/formulaire.css">
-    </head>
-    <body>
+<html>
+ <head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <link rel="shortcut icon" type="image/ico" href="img/favicon.gif" />
+   <link rel="stylesheet" type="text/css" href="./style/index.css" />
+   <title>Hotel & Resort</title>
+ </head>
+ <body>
 
+ <div class="header">
+    <h1 id="head-title">Hotel & Resort</h1>
+    <ul id="boutton-margin">
+        <li><a href="index.php">Chambres</a></li>
+        <li><a href="personnel.php">Personnel</a></li>
+        <li id="déconnexion"><a href="logout.php">Déconnexion</a></li>
+    </ul>
+</div>        
+        
 <!------------------------------- Connecte à la bdd  --------------------------------------------->
 <div class="php">
 <?php 
