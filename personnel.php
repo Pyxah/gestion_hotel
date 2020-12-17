@@ -1,31 +1,45 @@
-<!DOCTYPE html>
-<html>
- <head>
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-   <link rel="shortcut icon" type="image/ico" href="img/favicon.gif" />
-   <link rel="stylesheet" type="text/css" href="./style/personnel.css" />
-   <title>Hotel & Resort</title>
- </head>
- <body>
+<head>
+	<link href="./Personnel.css" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="logo.png" />
+</head>
 
- <div class="header">
+<div class="header">
     <h1 id="head-title">Hotel & Resort</h1>
-    <ul id="boutton-margin">
-        <li><a href="index.php">Chambres</a></li>
-        <li><a href="personnel.php">Personnel</a></li>
-        <li id="déconnexion"><a href="logout.php">Déconnexion</a></li>
+    <ul id="buttonheader-margin">
+        <li><a href="#chambres">Chambres</a></li>
+        <li><a href="#personnel">Personnel</a></li>
+        <li id="déconnexion"><a href="#déconnexion">Déconnexion</a></li>
     </ul>
 </div>
 
 <?php
 try
 {
-	$bdd = new PDO('mysql:host=localhost;dbname=gestion_hotel;charset=utf8', 'root', 'root');   
-	array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION);
+    $bdd = new PDO('mysql:host=localhost;dbname=tp_hotels;charset=utf8', 'root', '');   
+    array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION);
 }
 catch(Exception $e)
 {
-	die('Erreur :'.$e->getMessage() );
+    die('Erreur :'.$e->getMessage() );
 }
 ?>
+
+        <button class="button" id="button" type="submit" name="button"><a href="./formulaire.php">Ajouter un collaborateur</button>
+
+<h2>Gestion du personnel</h2>
+
+<div class="main">
+    <?php
+    $getAll = $bdd->query('SELECT employee.nom, employee.prenom FROM employee INNER JOIN chambre on chambre.employee');
+        foreach ($getAll->fetchAll() as $data)
+        {
+        ?>
+        <div class="case_personnel">
+            
+
+        </div>
+        <?php
+        }
+    ?>
+</div>
 
