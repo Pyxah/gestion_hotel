@@ -1,0 +1,88 @@
+html, body{
+    margin: 0px;
+    font-family: Segoe UI, Light;
+}
+
+.header {
+    background: rgb(10, 75, 161);
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family: Segoe UI, Light;
+    font-weight: lighter;
+}
+
+#buttonheader-margin {
+    margin-left: 0%;
+}
+
+#head-title {
+    margin-left: 12%;
+    font-size: 150%;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#déconnexion{
+    padding-left: 600px;
+}
+
+h2{
+    color: rgb(10, 75, 161);
+    margin-left: 14%;
+    margin-bottom: -3%;
+    margin-top: 2%;
+    font-family: Segoe UI, Light;
+    text-decoration: underline;
+}
+
+h3{
+    margin-left: 50px;
+    color: rgb(10, 75, 161);
+    font-family: Segoe UI, Light;
+    font-weight: normal;
+}
+
+.main{
+    padding: 8%;
+}
+
+
+button{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: white;
+    width: 120px;
+    height: 46px;
+    background: #36B700 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #0000003B;
+    font-family: Segoe UI, Light;
+    font-weight: normal;
+    border-radius: 10px;
+    border-color: #37b70083;
+}
+
+form{
+    margin-left: 14%;
+    margin-bottom: -3%;
+    margin-top: 5%;
+    width: 414px;
+}
+
+input{
+    margin-left: 50px;
+    width: 414px;
+    height: 34px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 10px;
+}
