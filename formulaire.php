@@ -19,7 +19,7 @@
 <div class="php">
 <?php 
 try {
-    $bdd=new PDO ('mysql:host=localhost;dbname=tp_hotels;charset=UTF8', 'root','');
+    $bdd=new PDO ('mysql:host=localhost;dbname=gestion_hotel;charset=UTF8', 'root','');
 }
 
 catch(Exception $e) {
