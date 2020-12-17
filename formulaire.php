@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html>
- <head>
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-   <link rel="shortcut icon" type="image/ico" href="img/favicon.gif" />
-   <link rel="stylesheet" type="text/css" href="./style/index.css" />
-   <title>Hotel & Resort</title>
- </head>
+<head>
+	<link href="./formulaire.css" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="logo.png" />
+</head>
  <body>
 
  <div class="header">
     <h1 id="head-title">Hotel & Resort</h1>
-    <ul id="boutton-margin">
+    <ul id="buttonheader-margin">
         <li><a href="index.php">Chambres</a></li>
         <li><a href="personnel.php">Personnel</a></li>
         <li id="déconnexion"><a href="logout.php">Déconnexion</a></li>
@@ -21,7 +19,7 @@
 <div class="php">
 <?php 
 try {
-    $bdd=new PDO ('mysql:host=localhost;dbname=gestion_hotel;charset=UTF8', 'root','root');
+    $bdd=new PDO ('mysql:host=localhost;dbname=tp_hotels;charset=UTF8', 'root','');
 }
 
 catch(Exception $e) {
@@ -32,21 +30,17 @@ catch(Exception $e) {
 
 <!--------------------------------------- Ajout employé ---------------------------------------------->
 
-<h2>Ajout d'un collaborateur</h1>
+<h2>Ajout d'un collaborateur</h2>
 
-      <form action="" method="post"> 
+      <form method="post"> 
         
-        <div class="formulaire">
-          <label for="nom">Nom</label> 
-          <input id="nom" type="text" name="nom">
-        
-          <label for="prenom">Prénom</label> 
-          <input id="prenom" type="text" name="prenom">
-        </div>
+        <div class="Nom">
+          <h3>Nom</h3><input id="nom" type="text" name="nom"><h3>Prénom</h3><input id="prenom" type="text" name="prenom"></div> 
 
         <button class="button" id="button" type="submit" name="button">Enregistrer</button>
       </form>
-    </body>
+
+</body>
 </html>
 <!---------------------------------------------------------------------------------------------------->
 
