@@ -44,7 +44,7 @@ h2{
     padding: 8%;
 }
 
-.case_chambre{
+.case_chambre {
     border: hidden;
     border-radius: 13px;
     /* padding: 15px; */
@@ -58,6 +58,7 @@ h2{
     width: 220px;
     background-color: white;
     box-shadow: 0px 1px 6px darkgrey;
+    position: relative;
 }
 
 .libre{
@@ -70,4 +71,33 @@ h2{
 
 .nettoyage{
     color : orange;
+}
+
+.dropdown.dropdown2 {
+    border: hidden;
+    border-radius: 13px;
+    /* padding: 15px; */
+    margin: 10px;
+    display: inline-block;
+    text-align: left;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    /* padding-right: 78px; */
+    width: 220px;
+    background-color: white;
+    box-shadow: 0px 8px 6px darkgrey;
+    position: absolute;
+    bottom: -41px;
+    left: -10px;
+    z-index: 15;
+    height: 50px;
+}
+
+.chambre{
+    position: relative;
+}
+
+.active {
+    z-index: 20 !important;
 }
