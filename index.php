@@ -14,8 +14,8 @@
  <div class="header">
     <h1 id="head-title">Hotel & Resort</h1>
     <ul id="boutton-margin">
-        <li><a href="#chambres">Chambres</a></li>
-        <li><a href="#personnel">Personnel</a></li>
+        <li><a href="index.php">Chambres</a></li>
+        <li><a href="personnel.php">Personnel</a></li>
         <li id="déconnexion"><a href="logout.php">Déconnexion</a></li>
     </ul>
 </div>
