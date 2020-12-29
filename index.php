@@ -86,6 +86,7 @@ if(!isset($_SESSION['id_user'])) {
                     ?>
                 </select>
             </div>
+	<button class="button" id="button" type="submit" name="button">Enregistrer</button>
         </div>
         <?php
         }
