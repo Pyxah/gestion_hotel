@@ -43,7 +43,7 @@ if(!isset($_SESSION['id_user'])) {
 ?>
 <!------------------------------------------------------------------------------------------------>
 
-<h2>Gestions des chambres</h2>
+<h2>Gestion des chambres</h2>
 
 <div class="main">
     <?php
