@@ -34,9 +34,9 @@ a {
 }
 
 h2{
-    color: rgb(10, 75, 161);
-    margin-left: 14%;
+    color: rgb(10, 75, 161); 
     margin-bottom: -3%;
+    margin-right: 10%;
     margin-top: 6%;
 }
 
@@ -90,7 +90,7 @@ h2{
     position: absolute;
     bottom: -41px;
     left: -10px;
-    z-index: 15;
+    z-index: 45;
     height: 50px;
 }
 
@@ -100,4 +100,26 @@ h2{
 
 .active {
     z-index: 20 !important;
+}
+
+.button{
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 90px;
+    height: 32px;
+    background: #36B700 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #0000003B;
+    border-radius: 10px;
+    border-color: #37b70083;
+    position: absolute;
+}
+
+select{
+    margin-top: 10px;
+}
+
+p{
+    color: rgb(10, 75, 161);
+    font-family: Segoe UI, Light;
 }
