@@ -78,6 +78,8 @@ if(!isset($_SESSION['id_user'])) {
                     <option value="3">A nettoyer</option>
                 </select>
 
+		<button class="button" id="button" type="submit" name="button">Enregistrer</button>
+		    
                 <select id="employe" class="input00" type="select" name="role1" placeholder="Choose your Role" required style="display: none;">
                     <?php
                     $getAllEmployee = $bdd->query('SELECT nom, prenom, chambre, id_employee from employee where chambre is null');
