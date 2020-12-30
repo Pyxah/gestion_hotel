@@ -72,23 +72,30 @@ if(!isset($_SESSION['id_user'])) {
             </div>
 
             <div class="dropdown dropdown2">
-                <select id="status" class="input100" type="select" name="role" placeholder="Choose your Role" required>
+                <form action="" method="post">
+                <label for="statut"></label>
+                <select id="statut" class="input100" type="select" name="statut" placeholder="Choose your Role" required>
                     <option value="1">Libre</option>
                     <option value="2">Occupé</option>
                     <option value="3">A nettoyer</option>
                 </select>
-
-		<button class="button" id="button" type="submit" name="button">Enregistrer</button>
-		    
-                <select id="employe" class="input00" type="select" name="role1" placeholder="Choose your Role" required style="display: none;">
+                
+                <label for="employee"></label>
+                <select id="employee" class="input00" type="select" name="employee" placeholder="Choose your Role" required style="display: none;">
                     <?php
                     $getAllEmployee = $bdd->query('SELECT nom, prenom, chambre, id_employee from employee where chambre is null');
                     foreach ($getAllEmployee->fetchAll() as $data) {
                     echo '<option value="'.$data['id_employee'].'">'.$data['nom'].' '.$data['prenom'].'</option>'; }
+
+                    if ($_POST) {
+                    $updateChambre = $bdd->prepare('UPDATE chambre SET statut = ?, employee = ? WHERE chambre.id_chambre = ?');
+                    $updateChambre->execute(array($_POST['statut'], $_POST['employee']));
+                    }
                     ?>
                 </select>
+                <button class="button" id="button" type="submit" name="button">Enregistrer</button>
+                </form>
             </div>
-	<button class="button" id="button" type="submit" name="button">Enregistrer</button>
         </div>
         <?php
         }
