@@ -9,6 +9,8 @@ html, body{
     display: flex;
     align-items: center;
     color: white;
+    font-family: Segoe UI, Light;
+    font-weight: lighter;
 }
 
 #buttonheader-margin {
@@ -17,6 +19,7 @@ html, body{
 
 #head-title {
     margin-left: 12%;
+    font-size: 150%;
 }
 
 li {
@@ -35,9 +38,19 @@ a {
 
 h2{
     color: rgb(10, 75, 161);
-    margin-left: 14%;
-    margin-bottom: -3%;
-    margin-top: 6%;
+    margin-left: 15%;
+    margin-top: 5%;
+    font-family: Segoe UI, Light;
+    text-decoration: underline;
+}
+
+h3{
+    margin-left: 50px;
+    color: rgb(10, 75, 161);
+    font-family: Segoe UI, Light;
+    font-weight: normal;
+    height: 20%;
+    font-size: 110%;
 }
 
 .main{
@@ -61,13 +74,15 @@ h2{
 }
 
 button{
-    margin-top: 30px;
-    margin-left: 190px;
+    margin-top: 5%;
+    margin-left: 12%;
     color: white;
-    width: 128px;
-    height: 46px;
+    width: 110px;
+    height: 37px;
     background: #36B700 0% 0% no-repeat padding-box;
     box-shadow: 0px 3px 6px #0000003B;
+    font-family: Segoe UI, Light;
+    font-weight: normal;
     border-radius: 10px;
     border-color: #37b70083;
 }
